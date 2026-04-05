@@ -1,5 +1,7 @@
 ## Hi there 👋
-*hi this is markdown*
+*hi this is markdown and im adding to it on my local to test changes
+***markdown!!***
+***these changes were made on local computer ot be pushed***
 
 <!--
 **mikeycodes12/mikeycodes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
