@@ -1,4 +1,4 @@
-## Hi there it Michael👋!
+## Hi there👋!
 
 ***Markdown!!***
 ***these changes were made on local computer to be pushed***
